@@ -4,6 +4,6 @@ public class TestJava {
 
     @Test
     public void testMethod(){
-        System.out.println("Hello World from Test World");
+        System.out.println("Hello World from Test");
     }
 }
